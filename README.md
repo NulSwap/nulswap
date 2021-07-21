@@ -6,9 +6,9 @@
     <meta name="keywords" content="THE RIGHT&nbsp;TO DEPLOY&nbsp;NULS&nbsp;ON DEFI&nbsp;IS COMMING, Subscribe">
     <meta name="description" content="">
     <meta name="page_type" content="np-template-header-footer-from-plugin">
-    <title>Nulswap</title>
+    <title>Página Inicial</title>
     <link rel="stylesheet" href="nuls.css" media="screen">
-<link rel="stylesheet" href="Nulswap.css" media="screen">
+<link rel="stylesheet" href="Página-Inicial.css" media="screen">
     <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
     <script class="u-script" type="text/javascript" src="nuls.js" defer=""></script>
     <meta name="generator" content="#">
@@ -24,11 +24,11 @@
 		"logo": "images/nulswap-02.png"
 }</script>
     <meta name="theme-color" content="#478ac9">
-    <meta property="og:title" content="Página Inicial">
+    <meta property="og:title" content="Nulswap">
     <meta property="og:type" content="website">
   </head>
   <body class="u-body"><header class="u-clearfix u-header u-header" id="sec-66b8"><div class="u-clearfix u-sheet u-sheet-1">
-        <a href="https://twitter.com/nulswap" class="u-image u-logo u-image-1" data-image-width="1635" data-image-height="425">
+        <a href="https://twitter.com/nulswap" class="u-image u-logo u-image-1" data-image-width="1635" data-image-height="425" title="logo">
           <img src="images/nulswap-02.png" class="u-logo-image u-logo-image-1" data-image-width="208.9999">
         </a>
         <a href="#" class="u-border-none u-btn u-btn-round u-button-style u-custom-color-1 u-custom-font u-font-raleway u-radius-50 u-text-white u-btn-1">CONNECT</a>
@@ -57,7 +57,7 @@
               <div class="u-size-28">
                 <div class="u-layout-col">
                   <div class="u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-2">
-                    <div class="u-container-layout u-container-layout-2">
+                    <div class="u-container-layout u-valign-middle u-container-layout-2">
                       <h1 class="u-align-center u-custom-font u-text u-text-white u-text-2">fOLLOW NOW</h1>
                       <div class="u-align-center u-social-icons u-spacing-38 u-social-icons-1">
                         <a class="u-social-url" target="_blank" title="Telegram" href=""><span class="u-icon u-social-icon u-social-telegram u-text-black u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-d2a0"></use></svg><svg class="u-svg-content" viewBox="0 0 112 112" x="0" y="0" id="svg-d2a0"><circle fill="currentColor" cx="56.1" cy="56.1" r="55"></circle><path fill="#FFFFFF" d="M18.4,53.2l64.7-24.9c3-1.1,5.6,0.7,4.7,5.3l0,0l-11,51.8c-0.8,3.7-3,4.6-6.1,2.8L53.9,75.8l-8.1,7.8
@@ -80,7 +80,7 @@
                   </div>
                   <div class="u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-3">
                     <div class="u-container-layout u-container-layout-3">
-                      <img class="u-image u-image-default u-preserve-proportions u-image-1" src="images/nulswap-03.png" alt="" data-image-width="523" data-image-height="523">
+                      <img class="u-align-center u-image u-image-default u-preserve-proportions u-image-1" src="images/nulswap-03.png" alt="" data-image-width="523" data-image-height="523">
                     </div>
                   </div>
                 </div>
@@ -96,5 +96,6 @@
         <p class="u-small-text u-text u-text-variant u-text-1">Nulswap 2021 - unknown developers crew</p>
       </div></footer>
     <section class="u-backlink u-clearfix u-grey-80">
+    </section>
   </body>
 </html>
