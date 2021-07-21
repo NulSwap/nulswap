@@ -6,7 +6,7 @@
     <meta name="keywords" content="THE RIGHT&nbsp;TO DEPLOY&nbsp;NULS&nbsp;ON DEFI&nbsp;IS COMMING, Subscribe">
     <meta name="description" content="">
     <meta name="page_type" content="np-template-header-footer-from-plugin">
-    <title>Página Inicial</title>
+    <title>Nulswap</title>
     <link rel="stylesheet" href="nuls.css" media="screen">
 <link rel="stylesheet" href="Página-Inicial.css" media="screen">
     <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
@@ -24,7 +24,7 @@
 		"logo": "images/nulswap-02.png"
 }</script>
     <meta name="theme-color" content="#478ac9">
-    <meta property="og:title" content="Nulswap">
+    <meta property="og:title" content="Página Inicial">
     <meta property="og:type" content="website">
   </head>
   <body class="u-body"><header class="u-clearfix u-header u-header" id="sec-66b8"><div class="u-clearfix u-sheet u-sheet-1">
@@ -34,13 +34,13 @@
         <a href="#" class="u-border-none u-btn u-btn-round u-button-style u-custom-color-1 u-custom-font u-font-raleway u-radius-50 u-text-white u-btn-1">CONNECT</a>
       </div></header>
     <section class="u-align-center u-clearfix u-image u-shading u-section-1" id="carousel_64c7" data-image-width="1920" data-image-height="1044">
-      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
-        <h2 class="u-custom-font u-text u-text-custom-color-1 u-text-1">Get your Nuls ready...<br>DeFi is coming!
+      <div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-xl u-sheet-1">
+        <h2 class="u-align-center-xs u-custom-font u-text u-text-custom-color-1 u-text-1">Get your Nuls ready...<br>DeFi is coming!
         </h2>
       </div>
     </section>
     <section class="u-clearfix u-custom-color-1 u-section-2" id="carousel_e13b">
-      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+      <div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-md u-valign-middle-xl u-sheet-1">
         <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
           <div class="u-layout">
             <div class="u-layout-row">
@@ -57,9 +57,9 @@
               <div class="u-size-28">
                 <div class="u-layout-col">
                   <div class="u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-2">
-                    <div class="u-container-layout u-valign-middle u-container-layout-2">
-                      <h1 class="u-align-center u-custom-font u-text u-text-white u-text-2">fOLLOW NOW</h1>
-                      <div class="u-align-center u-social-icons u-spacing-38 u-social-icons-1">
+                    <div class="u-container-layout u-valign-middle-lg u-valign-middle-xl u-container-layout-2">
+                      <h1 class="u-align-center u-custom-font u-text u-text-white u-text-2">fOLLOW us</h1>
+                      <div class="u-align-center u-social-icons u-spacing-25 u-social-icons-1">
                         <a class="u-social-url" target="_blank" title="Telegram" href=""><span class="u-icon u-social-icon u-social-telegram u-text-black u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-d2a0"></use></svg><svg class="u-svg-content" viewBox="0 0 112 112" x="0" y="0" id="svg-d2a0"><circle fill="currentColor" cx="56.1" cy="56.1" r="55"></circle><path fill="#FFFFFF" d="M18.4,53.2l64.7-24.9c3-1.1,5.6,0.7,4.7,5.3l0,0l-11,51.8c-0.8,3.7-3,4.6-6.1,2.8L53.9,75.8l-8.1,7.8
 	c-0.9,0.9-1.7,1.6-3.4,1.6l1.2-17l31.1-28c1.4-1.2-0.3-1.9-2.1-0.7L34.2,63.7l-16.6-5.2C14,57.4,14,54.9,18.4,53.2L18.4,53.2z"></path></svg></span>
                         </a>
