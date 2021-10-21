@@ -1,0 +1,86 @@
+
+a {
+  -webkit-transition: .3s all ease;
+  -o-transition: .3s all ease;
+  transition: .3s all ease; }
+
+  a, a:hover {
+    text-decoration: none !important; }
+
+.content {
+  height: 70vh; }
+
+.footer-16371 {
+  padding: 30px 0;
+  font-family: "SORA", sans-serif; }
+  .footer-16371 .footer-site-logo {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 900;
+    }
+    .footer-16371 .footer-site-logo a {
+      color: #32e08d;}
+  
+.footer-16371 .nav-links {
+    text-align: center;
+    padding: 0;
+    margin-top: 25px }
+    .footer-16371 .nav-links li {
+      text-align: center;
+      display: inline-block; }
+      .footer-16371 .nav-links li a {
+        padding: 6px;
+        color: rgb(255, 255, 255); }
+        .footer-16371 .nav-links li a:hover {
+          color: #32e08d; }
+
+.footer-16371 .nav-links1 {
+    text-align: center;
+    padding: 0;
+    margin-top: -15px }
+    .footer-16371 .nav-links1 li {
+      text-align: center;
+      display: inline-block; }
+      .footer-16371 .nav-links1 li a {
+        padding: 10px;
+        color: rgb(255, 255, 255); }
+        .footer-16371 .nav-links1 li a:hover {
+          color: #32e08d; }
+  
+.footer-16371 .social h3 {
+    margin:37px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    color: #ffffff; }
+  .footer-16371 .social ul li {
+      display:inline-block;
+  justify-content: center;
+      }
+    .footer-16371 .social ul li a {
+      padding: 0px; }
+    .footer-16371 .social ul li.in a {
+      color: #fdfdfd; }
+    .footer-16371 .social ul li.tw a {
+      color: #ffffff; }
+    .footer-16371 .social ul li.fb a {
+      color: #ffffff; }
+    .footer-16371 .social ul li.dr a {
+      color: #ffffff; }
+    .footer-16371 .social ul li.pin a {
+      color: #ffffff; }
+  .footer-16371 .copyright {
+    padding: 50px;
+    text-align: center;
+    color: #ffffff; }
+    
+    :root {
+      --bg: #dcdde1;     
+      --color-icon: #535c68;  
+      --social-icon1: #e4405f;
+      --social-icon2: #3b5999;
+      --social-icon3: #e4405f;
+      --social-icon4: #cd201f;
+      --social-icon5: #0077B5;  
+    }
+   

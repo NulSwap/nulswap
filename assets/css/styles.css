@@ -672,7 +672,9 @@ button{
 }
 
 .footer__logo-img{
-  width: 20px;
+  display: flex;
+  align-items: center;
+  width: 50px;
 }
 
 .footer__description{
@@ -703,7 +705,7 @@ button{
 }
 
 .footer__links{
-  display: grid;
+  display:initial ;
   row-gap: .35rem;
 }
 
@@ -718,8 +720,8 @@ button{
 }
 
 .footer__copy{
-  display: block;
-  text-align: center;
+  display: initial;
+  align-items: center;
   font-size: var(--smaller-font-size);
   margin-top: 4.5rem;
 }
@@ -1014,3 +1016,4 @@ button{
     left: -3%;
   }
 }
+ 
